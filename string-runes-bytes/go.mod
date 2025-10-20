@@ -1,3 +1,3 @@
-module stringsrunesbytes
+module github.com/ppahari/go-project/string-runes
 
-go 1.22.3
+go 1.25.2

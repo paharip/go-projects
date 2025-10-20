@@ -1,3 +1,3 @@
-module github.com/paharip/golang/slice/basic
+module github.com/ppahari/go-project/slices
 
-go 1.22.3
+go 1.25.2

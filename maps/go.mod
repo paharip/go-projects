@@ -1,3 +1,3 @@
-module github.com/paharip/golan/basic/mapsexample
+module github.com/ppahari/go-project/maps
 
-go 1.22.3
+go 1.25.2

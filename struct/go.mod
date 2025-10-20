@@ -1,3 +1,3 @@
-module github.com/paharip/golan/basic/structex
+module github.com/ppahari/go-project/struct
 
-go 1.22.3
+go 1.25.2
